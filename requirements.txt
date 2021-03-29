@@ -33,7 +33,7 @@ micawber==0.5.1
 peewee==3.13.1
 psycopg2==2.8.4
 pycparser==2.19
-Pygments==2.5.2
+Pygments==2.7.4
 PyJWT==1.7.1
 python-dateutil==2.8.1
 python-dotenv==0.10.3
