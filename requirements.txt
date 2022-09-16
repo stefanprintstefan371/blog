@@ -26,7 +26,7 @@ idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.10.3
 jwt==0.6.1
-Mako==1.1.0
+Mako==1.2.2
 Markdown==3.1.1
 MarkupSafe==1.1.1
 micawber==0.5.1
